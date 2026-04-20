@@ -1,0 +1,7 @@
+build/
+sources/poky/build/
+tmp/
+downloads/
+sstate-cache/
+*.wic
+*.img
