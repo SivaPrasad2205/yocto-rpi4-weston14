@@ -188,6 +188,7 @@ Layer not compatible with kirkstone
 * Apply Weston patches (v8 / v14 experimentation)
 * Explore DRM/KMS tuning
 * Performance optimization
+* Auto launch Applications
 
 ---
 
