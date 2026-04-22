@@ -179,6 +179,10 @@ Layer not compatible with kirkstone
 * Removed Yocto layers from tracking
 * Added `.gitignore` for build artifacts
 
+### Backend Failure Error
+ 
+* after boot when trying to launch getting Drm-backend initialization failure
+* need to fix this issue
 ---
 
 ##  Future Work
